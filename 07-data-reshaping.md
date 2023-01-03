@@ -102,7 +102,7 @@ penguins |>
 ```
 
 ```{.warning}
-Warning: Removed 8 rows containing non-finite values (stat_boxplot).
+Warning: Removed 8 rows containing non-finite values (`stat_boxplot()`).
 ```
 
 <img src="fig/07-data-reshaping-rendered-unnamed-chunk-4-1.png" style="display: block; margin: auto;" />
